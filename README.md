@@ -18,6 +18,53 @@
   <img src="https://img.shields.io/badge/UI%2FUX%20Enthusiast-FF7A00?style=for-the-badge&labelColor=171717"/>
 </p>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=FF7A00&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=FF7A00&labelColor=171717"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/YOUR_GITHUB_USERNAME&label=Public%20Repos&query=public_repos&color=FF7A00&labelColor=171717&style=flat-square"/>
+</p>
+
+</div>
+
+<br/>
+
+## 📊 Quick Stats At A Glance
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="20%">
+
+**🗓️ 3+**
+<br/><sub>Years Coding</sub>
+
+</td>
+<td align="center" width="20%">
+
+**🚀 10+**
+<br/><sub>Projects Shipped</sub>
+
+</td>
+<td align="center" width="20%">
+
+**⚙️ 15+**
+<br/><sub>Technologies</sub>
+
+</td>
+<td align="center" width="20%">
+
+**🧠 2**
+<br/><sub>AI Systems in Prod</sub>
+
+</td>
+<td align="center" width="20%">
+
+**☕ ∞**
+<br/><sub>Cups of Coffee</sub>
+
+</td>
+</tr>
+</table>
 </div>
 
 <br/>
@@ -56,6 +103,42 @@ I build intelligent systems, scalable web applications, and meaningful digital e
 <td align="center" width="16%">💼<br/><b>Business Info<br/>Systems</b></td>
 </tr>
 </table>
+
+<br/>
+
+<details>
+<summary><b>📌 Click to see what I'm currently working on</b></summary>
+<br/>
+
+- 🔭 Building **Laundry POS (GAS)** — a lightweight coin-laundry POS on Google Apps Script + Sheets
+- 🧠 Exploring **local LLM tooling (Ollama)** as a cost-free alternative for AI-assisted coding
+- 📄 Maintaining **Antigravity HR/HC** approval workflows for PT PAL Indonesia
+- 🌱 Learning **RAG pipelines** and **AI agent architectures**
+
+</details>
+
+<br/>
+
+## 📈 Skill Proficiency
+
+<div align="center">
+
+`Full Stack Development`
+<img src="https://progress-bar.dev/90/?width=400&color=FF7A00&title=90%25"/>
+
+`AI / Machine Learning`
+<img src="https://progress-bar.dev/80/?width=400&color=FF7A00&title=80%25"/>
+
+`UI/UX Design`
+<img src="https://progress-bar.dev/75/?width=400&color=FF7A00&title=75%25"/>
+
+`Backend Architecture`
+<img src="https://progress-bar.dev/85/?width=400&color=FF7A00&title=85%25"/>
+
+`DevOps / Deployment`
+<img src="https://progress-bar.dev/60/?width=400&color=FF7A00&title=60%25"/>
+
+</div>
 
 <br/>
 
@@ -168,10 +251,24 @@ Correspondence management system for PT PAL Indonesia, including complete brand 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FF7A00&icon_color=FF7A00&text_color=B3B3B3&ring_color=FF7A00" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FF7A00&icon_color=FF7A00&text_color=B3B3B3&ring_color=FF7A00&count_private=true" width="49%"/>
 <img src="https://github-readme-streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0A0A0A&stroke=2D2D2D&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&sideLabels=B3B3B3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B3B3B3" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FF7A00&text_color=B3B3B3&langs_count=8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FF7A00&text_color=B3B3B3&langs_count=8" width="60%"/>
+
+<br/><br/>
+
+**🏆 GitHub Trophies**
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
+
+<br/>
+
+**📅 Contribution Activity (3D)**
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>⚠️ Snake animation requires a one-time GitHub Actions setup — see note below</sub>
 
 </div>
 
@@ -240,18 +337,48 @@ Selected as a recipient for academic and leadership merit.
 
 <br/>
 
+## 💬 Dev Quote of the Day
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%"/>
+</div>
+
+<br/>
+
+<details>
+<summary><b>⚡ Fun Facts</b></summary>
+<br/>
+
+| # | Fact |
+|---|------|
+| 1 | 🧵 Built a hybrid recommendation engine combining TF-IDF (40%) + Sentence Transformers (60%) |
+| 2 | 🏢 Designed a multi-tier document approval workflow used across 4 organizational levels |
+| 3 | 🧺 Shipped a full POS system on Google Apps Script — no paid backend required |
+| 4 | 🎓 Passed thesis defense after resolving 12 examiner revision points |
+| 5 | 🖋️ Also does branding & logo design — not just code |
+
+</details>
+
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/-0A0A0A?style=for-the-badge" height="4" width="100%"/>
+</div>
+
+<br/>
+
 ## 📬 Contact
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=FF7A00"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=FF7A00"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=FF7A00"/></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=vercel&logoColor=FF7A00"/></a>
+<a href="mailto:budiarto3788@gmail.com"><img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=FF7A00"/></a>
+<a href="https://linkedin.com/in/hilmanzahrawa"><img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=FF7A00"/></a>
+<a href="https://github.com/roqueforti"><img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=FF7A00"/></a>
+<a href="https://hilmanzahrawa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=vercel&logoColor=FF7A00"/></a>
 
 <br/><br/>
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:budiarto3788@gmail.com">
 <img src="https://img.shields.io/badge/Let's%20Build%20Something%20Amazing-FF7A00?style=for-the-badge&logoColor=white"/>
 </a>
 
@@ -260,3 +387,51 @@ Selected as a recipient for academic and leadership merit.
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A00,50:1E1E1E,100:0A0A0A&height=100&section=footer" width="100%"/>
+
+<!--
+=====================================================
+SETUP NOTES — read before publishing
+=====================================================
+
+1) Replace every "YOUR_GITHUB_USERNAME" with your real GitHub username.
+2) Replace "YOUR_EMAIL@example.com", "YOUR_LINKEDIN", "your-portfolio.com".
+3) Replace project GitHub/Demo links (currently "#") with real repo URLs.
+4) Progress-bar percentages under "Skill Proficiency" are illustrative —
+   adjust the numbers to reflect your actual comfort level.
+5) The Quick Stats numbers (3+ years, 10+ projects, etc.) are placeholders —
+   update them to real figures.
+
+SNAKE CONTRIBUTION ANIMATION SETUP (optional, adds the animated
+contribution graph under GitHub Analytics):
+  a. In your profile repo (username/username), create:
+     .github/workflows/snake.yml
+  b. Paste this workflow:
+
+     name: generate-snake
+     on:
+       schedule:
+         - cron: "0 0 * * *"
+       workflow_dispatch: {}
+       push:
+         branches: [ main ]
+     permissions:
+       contents: write
+     jobs:
+       generate:
+         runs-on: ubuntu-latest
+         steps:
+           - uses: Platane/snk@v3
+             with:
+               github_user_name: ${{ github.repository_owner }}
+               outputs: |
+                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+           - uses: crazy-max/ghaction-github-pages@v4
+             with:
+               target_branch: output
+               build_dir: dist
+             env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  c. Commit, run the workflow once manually (Actions tab → Run workflow),
+     then the snake SVG referenced in this README will render automatically.
+===================================================== -->
